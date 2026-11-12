@@ -1,0 +1,16 @@
+order_id,customer_id,customer_email,order_date,status,quantity,unit_price
+1001,C001,priya.sharma@example.com,2026-10-02,DELIVERED,2,49.99
+1002,C002,marcus.lee@example.com,2026-10-03,SHIPPED,1,129.00
+1003,C003,emma.johnson@example.com,2026-10-03,PAID,3,19.95
+1003,C003,emma.johnson@example.com,2026-10-03,PAID,3,19.95
+1004,C004,,2026-10-04,PLACED,1,59.50
+1005,C005,david.kim@example,2026-10-05,SHIPPED,2,24.99
+1006,C006,sofia.garcia@example.com,2026-10-06,DELIVERD,1,89.99
+1007,C007,liam.brown@example.com,2026-10-07,PAID,-1,39.99
+1008,C999,james.wilson@example.com,2026-10-08,PAID,1,74.25
+1009,C008,ava.taylor@example.com,2026-12-24,PLACED,4,15.00
+1010,C009,noah.martin@example.com,,PAID,1,210.00
+1011,C010,olivia.davis@example.com,2026-10-10,CANCELLED,0,0.00
+1012,C002,marcus.lee@example.com,2026-10-03,SHIPPED,1,129.00
+1013,C011,ethan.clark@example.com,2026-10-11,DELIVERED,5,9.99
+1014,C012,mia.walker@example.com,2026-10-12,pending,2,44.50
